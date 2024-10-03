@@ -23,6 +23,6 @@ spec:
     spec:
       containers:
         - name: myapp
-          image: bbox1168/nginx:v1.0
+          image: bbox1168/nginx:v1.1
           ports:
             - containerPort: 80
